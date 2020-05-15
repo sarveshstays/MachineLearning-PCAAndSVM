@@ -34,7 +34,7 @@ Learning Outcomes:
 Apply dimensionality reduction technique – PCA and train a model using
 principal components instead of training the model using raw data.
 
-Steps and tasks:
+# Steps and tasks:
 
 1. Data pre-processing - Understand the data and treat missing values (Use
 box plot), outliers (15 points)
